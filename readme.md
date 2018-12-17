@@ -13,8 +13,6 @@ More [screenshots](screenshots.md).
 * [Features](#features)
 * [How To Use](#how-to-use)
 * [Updating](#updating)
-* [Configuring project](#configuring-project)
-* [Migrations](#migrations)
 * [Credits](#Credits)
 * [Documentation](#documentation)
 * [License](#license)
@@ -64,48 +62,7 @@ CleanBuild, CopyBuild, Deployer, Env, Git, Grunt, Gulp, PackageBuild, Phar, Phin
 cd /var/www
 ```
 
-* Create project by Composer:
 
-```bash
-composer create-project php-censor/php-censor php-censor.local --keep-vcs
-```
-
-Or download [latest archive](https://github.com/php-censor/php-censor/releases/latest) from GitHub, unzip it and run 
-`composer install`.
-
-* Create empty database for application (MySQL/MariaDB or PostgreSQL);
-
-* Install Beanstalkd Queue (Optional, if you are going to use queue with Worker):
-
-```bash
-aptitude install beanstalkd # For deb-based
-```
-
-* Install PHP Censor itself:
-
-```bash
-cd ./php-censor.local
-
-# Interactive installation
-./bin/console php-censor:install
-
-# Non-interactive installation
-./bin/console php-censor:install --url='http://php-censor.local' --db-type=pgsql --db-host=localhost --db-name=php-censor --db-user=php-censor --db-password=php-censor --db-port=null --admin-name=admin --admin-password=admin --admin-email='admin@php-censor.local' --queue-use=1 --queue-host=localhost --queue-name=php-censor
-
-# Non-interactive installation with prepared config.yml file
-./bin/console php-censor:install --config-from-file=yes --admin-name=admin --admin-password=admin --admin-email='admin@php-censor.local'
-```
-
-* [Add a virtual host to your web server](docs/en/virtual_host.md), pointing to the `public` directory within your new
-PHP Censor directory. You'll need to set up rewrite rules to point all non-existent requests to PHP Censor;
-
-* [Set up the PHP Censor Worker](docs/en/workers/worker.md) (Need configured Queue) or 
-[a cron-job](docs/en/workers/cron.md) to run PHP Censor builds;
-
-## Installing via Docker
-
-If you want to install PHP Censor as Docker container, you can use 
-[php-censor/docker-php-censor](https://github.com/php-censor/docker-php-censor) project.
 
 ## Updating
 
@@ -154,55 +111,7 @@ If you want to install PHP Censor as Docker container, you can use
     sudo systemctl restart <worker@n.service>
     ```
 
-## Configuring project
 
-There are several ways to set up the project:
-
-* Add project without any project config (Runs "zero-config" plugins, including: Composer, TechnicalDebt, PHPLoc, 
-PHPCpd, PHPCodeSniffer, PHPMessDetector, PHPDocblockChecker, PHPParallelLint, PHPUnit and Codeception);
-
-* Similar to [Travis CI](https://travis-ci.org), to support PHP Censor in your project, you simply need to add a 
-`.php-censor.yml` (`phpci.yml`/`.phpci.yml` for backward compatibility with PHPCI) file to the root of your repository;
-
-* Add project config in PHP Censor project page (And it will cancel file config from project repository);
-
-The project config should look something like this:
-
-```yml
-setup:
-  composer:
-    action: "install"
-test:
-  php_unit:
-    config: "phpunit.xml"
-  php_mess_detector:
-    allow_failures: true
-  php_code_sniffer:
-    standard: "PSR2"
-  php_cpd:
-    allow_failures: true
-complete:
-  email:
-    default_mailto_address: admin@php-censor.local
-```
-
-More details about [configuring project](docs/en/configuring_project.md).
-
-## Migrations
-
-Run to apply latest migrations:
-
-```bash
-cd /path/to/php-censor
-./bin/console php-censor-migrations:migrate
-```
-
-Run to create new migration:
-
-```bash
-cd /path/to/php-censor
-./bin/console php-censor-migrations:create NewMigrationName
-```
 
 ## Credits
 
