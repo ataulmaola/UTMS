@@ -7,4 +7,4 @@ Screenshots
 
 ![create_group](https://user-images.githubusercontent.com/17488819/50067523-71d15f80-01eb-11e9-979e-91d76d0edb9e.png)
 
-![create_group](https://user-images.githubusercontent.com/17488819/50067539-8281d580-01eb-11e9-836e-6c26d46d0d50.png)
+![members](https://user-images.githubusercontent.com/17488819/50067560-a0e7d100-01eb-11e9-884c-747242e6a0d0.png)
