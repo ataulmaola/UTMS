@@ -12,7 +12,6 @@ More [screenshots](screenshots.md).
 * [System requirements](#system-requirements)
 * [Features](#features)
 * [How To Use](#how-to-use)
-* [Installing via Docker](#installing-via-docker)
 * [Updating](#updating)
 * [Configuring project](#configuring-project)
 * [Migrations](#migrations)
