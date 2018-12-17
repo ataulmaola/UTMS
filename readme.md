@@ -16,7 +16,7 @@ More [screenshots](screenshots.md).
 * [Updating](#updating)
 * [Configuring project](#configuring-project)
 * [Migrations](#migrations)
-* [Tests](#tests)
+* [Credits](#Credits)
 * [Documentation](#documentation)
 * [License](#license)
 
@@ -205,7 +205,7 @@ cd /path/to/php-censor
 ./bin/console php-censor-migrations:create NewMigrationName
 ```
 
-## Tests
+## Credits
 
 ```bash
 cd /path/to/php-censor
