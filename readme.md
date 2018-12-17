@@ -7,6 +7,6 @@ ITMS is a powerful, consistent, and flexible thesis management system. Built usi
 
 
 <p>
-    <img src="https://ibb.co/Zd5MK5K"  width="1000" height="720"/>
+    <img src="https://drive.google.com/file/d/1fxnKVib_gO0_9v5-3-tnWQkVlHsAiRsy/view?usp=sharing"  width="1000" height="720"/>
 <p>
 
