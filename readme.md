@@ -7,6 +7,6 @@ ITMS is a powerful, consistent, and flexible thesis management system. Built usi
 
 
 
-        ![alt UTMS](UTMS/home.png)
+        ![alt UTMS](https://github.com/ataulmaola/UTMS/home.png)
       
 
