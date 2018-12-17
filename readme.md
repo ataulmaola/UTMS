@@ -19,16 +19,13 @@ More [screenshots](screenshots.md).
 
 ## System requirements
 
-* Unix-like OS (**Windows isn't supported**);
-
-* PHP 5.6+ (with OpenSSL support and enabled functions: `exec()`, `shell_exec()` and `proc_open()`);
+* PHP 7 (with Laravel Framework);
 
 * Web-server (Nginx or Apache2);
 
-* Database (MySQL/MariaDB or PostgreSQL);
+* Database (MySQL);
 
-* Beanstalkd queue (Optional, needed if you use [worker](docs/en/workers/worker.md) instead of 
-[cronjob](docs/en/workers/cron.md));
+* Frondend(Bootstrap,Javascript)
 
 ## Features
 
