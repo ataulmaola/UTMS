@@ -11,7 +11,7 @@ More [screenshots](screenshots.md).
 
 * [System requirements](#system-requirements)
 * [Features](#features)
-* [Installing](#installing)
+* [How To Use](#how-to-use)
 * [Installing via Docker](#installing-via-docker)
 * [Updating](#updating)
 * [Configuring project](#configuring-project)
@@ -57,7 +57,7 @@ CleanBuild, CopyBuild, Deployer, Env, Git, Grunt, Gulp, PackageBuild, Phar, Phin
 
 * Use your LDAP-server for authentication;
 
-## Installing
+## How To Use
 
 * Go to the directory in which you want to install PHP Censor, for example: `/var/www`:
 
