@@ -16,6 +16,7 @@ More [screenshots](screenshots.md).
 * [How To Use](#how-to-use)
 * [Updating](#updating)
 * [Credits](#Credits)
+* [Documentation](#Documentation)
 * [License](#license)
 
 ## System requirements
@@ -78,6 +79,8 @@ This software uses the following open source packages:
 
 * [jquery](https://jquery.com/)
 
+
+## Documentation
 
 
 
