@@ -31,13 +31,13 @@ More [screenshots](screenshots.md).
 
 ## Features
 
-* Student Panel(Student dashboard,Profile,Email,Message);
+* Student Panel([Dashboard](docs/student.md),Profile,Email,Message);
 
-* Teacher Panel(Dashboard,Profile);
+* Teacher Panel(Dashboard[Dashboard](docs/teacher.md),Profile);
 
 * Thesis/Project Member-Group Create;
 
-* Set up and tear down database tests for  MySQL ;
+* Set up and tear down database tests for  [MySQL](docs/en/plugins/mysql.md) ;
 
 * Interactive Super Admin
 
