@@ -14,7 +14,6 @@ More [screenshots](screenshots.md).
 * [How To Use](#how-to-use)
 * [Updating](#updating)
 * [Credits](#Credits)
-* [Documentation](#documentation)
 * [License](#license)
 
 ## System requirements
@@ -75,9 +74,6 @@ More [screenshots](screenshots.md).
 
 *
 
-## Documentation
-
-[Full UTMS documentation](docs/README.md).
 
 ## License
 
