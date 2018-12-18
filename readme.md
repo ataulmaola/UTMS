@@ -82,7 +82,7 @@ This software uses the following open source packages:
 
 ## Documentation
 
-
+   [Full UTMS documentation.](https://github.com/ataulmaola/UTMS/blob/master/readme.md)
 
 ## License
 
