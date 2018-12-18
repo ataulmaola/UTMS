@@ -23,7 +23,7 @@ More [screenshots](screenshots.md).
 
 * Web-server (Nginx or Apache2);
 
-* Unix-like OS (**Windows isn't supported**);
+* Linux OS (**Windows isn't supported**);
 
 * Database ([MySQL](https://www.mysql.com));
 
