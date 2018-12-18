@@ -48,6 +48,9 @@ More [screenshots](screenshots.md).
 ### As a Student 
 ===========
 
+### As a Teacher 
+===========
+
 
 
 ## Updating
