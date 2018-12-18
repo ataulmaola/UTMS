@@ -19,15 +19,15 @@ More [screenshots](screenshots.md).
 
 ## System requirements
 
-* PHP 7 (with Laravel Framework);
+* PHP 7 (Backend with [Laravel Framework](https://laravel.com));
 
 * Web-server (Nginx or Apache2);
 
 * Unix-like OS (**Windows isn't supported**);
 
-* Database (MySQL);
+* Database ([MySQL](https://www.mysql.com));
 
-* Frondend(Bootstrap,Javascript)
+* Javascript (Frondend with [Bootstrap](https://getbootstrap.com))
 
 ## Features
 
