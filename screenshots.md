@@ -1,7 +1,7 @@
 
 Screenshots
 ===========
-![utms](https://user-images.githubusercontent.com/17488819/50128107-01374b00-029e-11e9-83cc-2edee96f69c1.png)
+![utms](https://user-images.githubusercontent.com/17488819/50170552-544ee380-031a-11e9-9acf-3c1569ec7ae9.jpg)
 
 ![student_home](https://user-images.githubusercontent.com/17488819/50128261-8589ce00-029e-11e9-9d0d-f5feafe6d345.png)
 
