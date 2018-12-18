@@ -31,27 +31,17 @@ More [screenshots](screenshots.md).
 
 ## Features
 
-* Clone project from [GitHub](docs/en/sources/github.md), [Bitbucket](docs/en/sources/bitbucket.md) (Git/Hg), 
-[GitLab](docs/en/sources/gitlab.md), [Git](docs/en/sources/git.md), Hg (Mercurial), SVN (Subversion) or from local 
-directory;
+* Student Panel(Student dashboard,Profile,Email,Message);
 
-* Set up and tear down database tests for [PostgreSQL](docs/en/plugins/pgsql.md), [MySQL](docs/en/plugins/mysql.md) or 
-[SQLite](docs/en/plugins/sqlite.md);
+* Teacher Panel(Dashboard,Profile);
 
-* Install [Composer](docs/en/plugins/composer.md) dependencies;
+* Thesis/Project Member-Group Create;
 
-* Run tests for PHPUnit, Atoum, Behat, Codeception and PHPSpec;
+* Set up and tear down database tests for  MySQL ;
 
-* Check code via Lint, PHPParallelLint, Pdepend, PHPCodeSniffer, PHPCpd, PHPCsFixer, PHPDocblockChecker, PHPLoc, 
-PHPMessDetector, PHPTalLint and TechnicalDebt;
+* Interactive Super Admin
 
-* Run through any combination of the other [supported plugins](docs/en/README.md#plugins), including Campfire, 
-CleanBuild, CopyBuild, Deployer, Env, Git, Grunt, Gulp, PackageBuild, Phar, Phing, Shell and Wipe;
 
-* Send notifications on Email, XMPP, Slack, IRC, Flowdock, HipChat and 
-[Telegram](https://github.com/LEXASOFT/PHP-Censor-Telegram-Plugin);
-
-* Use your LDAP-server for authentication;
 
 ## How To Use
 
