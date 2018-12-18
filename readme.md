@@ -45,7 +45,7 @@ More [screenshots](screenshots.md).
 
 ## How To Use
 
-* As a Student 
+As a Student 
 ===========
 
 
