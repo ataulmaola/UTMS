@@ -31,15 +31,17 @@ More [screenshots](screenshots.md).
 
 ## Features
 
-* Student Panel([Dashboard](docs/student.md),[Profile](docs/profile.md),Email,Message);
+* Authenticate User with [Gmail](https://mail.google.com) verification;
 
-* Teacher Panel([Dashboard](docs/teacher.md),[Profile](docs/profile.md));
+* Have interactive Student Panel with User authentication([Dashboard](docs/student.md),[Profile](docs/profile.md),Email,Message);
 
-* Thesis/Project Member-Group Create;
+* Use Simple Teacher Panel([Dashboard](docs/teacher.md),[Profile](docs/profile.md));
+
+* Create Thesis/Project Member-Group and send request to teachers on priority counting;
 
 * Set up and tear down database tests for  [MySQL](docs/en/plugins/mysql.md) ;
 
-* Interactive Super Admin
+* Have  SuperAdmin:
 
 
 
