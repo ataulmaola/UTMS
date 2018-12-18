@@ -31,9 +31,9 @@ More [screenshots](screenshots.md).
 
 ## Features
 
-* Student Panel([Dashboard](docs/student.md),Profile,Email,Message);
+* Student Panel([Dashboard](docs/student.md),[Profile](docs/profile.md),Email,Message);
 
-* Teacher Panel(Dashboard[Dashboard](docs/teacher.md),Profile);
+* Teacher Panel(Dashboard[Dashboard](docs/teacher.md),[Profile](docs/profile.md));
 
 * Thesis/Project Member-Group Create;
 
