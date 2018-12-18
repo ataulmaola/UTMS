@@ -3,7 +3,9 @@ Screenshots
 ===========
 ![utms](https://user-images.githubusercontent.com/17488819/50128107-01374b00-029e-11e9-83cc-2edee96f69c1.png)
 
-![home](https://user-images.githubusercontent.com/17488819/50066943-b6a7c700-01e8-11e9-9179-6f2b5f4ddff1.png)
+![student_home](https://user-images.githubusercontent.com/17488819/50128261-8589ce00-029e-11e9-9d0d-f5feafe6d345.png)
+
+![teacher_home](https://user-images.githubusercontent.com/17488819/50128264-89b5eb80-029e-11e9-9791-c70f6f1c6ec6.png)
 
 ![student_dasboard](https://user-images.githubusercontent.com/17488819/50067488-59614500-01eb-11e9-9828-bd02078a29ca.png)
 
