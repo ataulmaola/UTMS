@@ -3,9 +3,9 @@
 ## Overview
 
 
-UTMS is a powerful, consistent, and flexible thesis management system. Built upon the laravel framework, UTMS provides a simple yet highly extensible architecture that encourages diving in and hacking on the code. 
+UTMS is a powerful, consistent, and flexible thesis management system. Built upon the laravel framework, UTMS provides a simple yet highly extensible architecture that encourages diving in and hacking on the code. [ Explore UTMS demo](http://ghazanfar.me/itms)
 
-[ Explore UTMS demo](http://ghazanfar.me/itms)
+
 
 ![utms](https://user-images.githubusercontent.com/17488819/50170552-544ee380-031a-11e9-9acf-3c1569ec7ae9.jpg)
       
