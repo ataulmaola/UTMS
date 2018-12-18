@@ -67,13 +67,13 @@ More [screenshots](screenshots.md).
 
 This software uses the following open source packages:
 
-* ![laravel](https://laravel.com)
+* [laravel](https://laravel.com)
 
-* ![PHPMailer](https://github.com/PHPMailer/PHPMailer)
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
-* ![Bootstrap](https://getbootstrap.com)
+* [Bootstrap](https://getbootstrap.com)
 
-* ![jquery](https://jquery.com/)
+* [jquery](https://jquery.com/)
 
 
 
