@@ -45,11 +45,8 @@ More [screenshots](screenshots.md).
 
 ## How To Use
 
-* Go to the directory in which you want to install PHP Censor, for example: `/var/www`:
-
-```bash
-cd /var/www
-```
+* As a Student ....
+=======
 
 
 
