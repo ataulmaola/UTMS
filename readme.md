@@ -65,20 +65,22 @@ More [screenshots](screenshots.md).
 
 ## Credits
 
-*
+This software uses the following open source packages:
 
-*
+* ![laravel](https://laravel.com)
 
-*
+* ![PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
-*
+* ![Bootstrap](https://getbootstrap.com)
 
-*
+* ![jquery](https://jquery.com/)
+
+
 
 
 ## License
 
-UTMS is open source software licensed under the [MIT](LICENSE).(editable)
+UTMS is open source software licensed under the [MIT](LICENSE).
 
 ---
 
